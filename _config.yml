@@ -29,8 +29,9 @@ logo: "/assets/images/mo-logo.png"
 
 # Build settings
 markdown: kramdown
-# remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
