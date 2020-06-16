@@ -10,7 +10,7 @@ header:
   #     url: "/docs/quick-start-guide/"
 excerpt: >
   Combining Machine Learning and Earth Observations to Improve
-  Simulations of Turbulent Behaviour in the Earth System
+  Simulations of Turbulent Behavior in the Earth System.
 ---
 
 ## Machine Ocean
