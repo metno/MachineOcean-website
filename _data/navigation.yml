@@ -1,3 +1,15 @@
 main:
   - title: "About"
     url: /about/
+
+institutions:
+  - title: Institutions
+    children:
+    - title: MET Norway
+      url: https://met.no/
+    - title: University of Oslo
+      url: https://uio.no/
+    - title: Uppsala University
+      url: https://www.uu.se/
+    - title: Woods Hole Oceanographic Institution
+      url: https://www.whoi.edu/

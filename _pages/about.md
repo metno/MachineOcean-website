@@ -4,6 +4,10 @@ title: "About"
 author_profile: false
 classes: wide
 # toc: true
+sidebar:
+  - title: ""
+    image: /assets/images/mo-logo-full.png
+    nav: institutions
 ---
 
 Machine Ocean is a project funded by the Norwegian Research Council 2020–2024.
