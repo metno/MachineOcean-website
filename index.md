@@ -5,6 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home-page-feature.jpg
+  caption: "Photo Credit: Jonas Gliss / MET Norway"
   # actions:
   #   - label: "<i class='fas fa-download'></i> Install now"
   #     url: "/docs/quick-start-guide/"
