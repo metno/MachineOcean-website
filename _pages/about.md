@@ -17,12 +17,12 @@ extensive experience with leading complex multidisciplinary research projects, i
 and industry projects. Mauritzen was Lead Author for IPCC’s 4th and 5th Assessment Reports.
 
 The co-lead of the project will be Dr. Jean Rabault (MET Norway). Rabault is a young scientist who
-has already been a pioneer in the use of machine learning and Artificial Neural Networks (ANN) in
+has already been a pioneer in the use of Machine Learning and Artificial Neural Networks (ANN) in
 fluid mechanics, both for image analysis for direct measurements of velocity fields (Rabault et.
-al., 2017), and for modeling and investigation of the active control of the NS equations (Rabault
-et. al., 2019a,b). In addition, Rabault has the necessary background in both Fluid Mechanics and
-geosciences, which places him at the intersection of the domains of competencies needed for this
-project.
+al., 2017), and for modeling and investigation of the active control of the Navier–Stokes equations
+(Rabault et. al., 2019a,b). In addition, Rabault has the necessary background in both Fluid
+Mechanics and geosciences, which places him at the intersection of the domains of competencies
+needed for this project.
 
 The rest of the research team is described below (organized under their home institution).
 
