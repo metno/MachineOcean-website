@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Simulations of Turbulent Behaviour in the Earth System
 # twitter_username: username
 # github_username: username
-# repository: "metno/MachineOcean-website"
+repository: "metno/MachineOcean-website"
 title_separator: "-"
 minimal_mistakes_skin: default
 search: false
@@ -81,15 +81,23 @@ author:
       url: "https://instagram.com/"
 
 footer:
+  image: /assets/images/footer-institutions.png
   links:
     - label: "MET Norway"
+      icon: "fas fa-fw fa-water"
       url: "https://met.no/"
     - label: "University of Oslo"
+      icon: "fas fa-fw fa-university"
       url: "https://uio.no/"
     - label: "Uppsala University"
+      icon: "fas fa-fw fa-university"
       url: "https://www.uu.se/"
-    - label: "Woods Hole Oceanographic Institution"
+    - label: "WHOI"
+      icon: "fas fa-fw fa-water"
       url: "https://www.whoi.edu/"
+    - label: "Website Source"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/metno/MachineOcean-website"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
@@ -109,7 +117,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -118,7 +126,15 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      toc: true
+      toc_icon: info-circle
+      toc_label: "Contents"
+      header:
+        overlay_color: "#2073ac"
+      sidebar:
+        - title: ""
+          nav: page_links
 
 category_archive:
   type: liquid

@@ -1,13 +1,6 @@
 ---
 permalink: /about/
-title: "About"
-author_profile: false
-classes: wide
-# toc: true
-sidebar:
-  - title: ""
-    image: /assets/images/mo-logo-full.png
-    nav: institutions
+title: "About Machine Ocean"
 ---
 
 Machine Ocean is a project funded by [The Research Council of Norway](https://www.forskningsradet.no/en/) 2020–2024.
@@ -22,9 +15,12 @@ Rabault is a young scientist who has already been a pioneer in the use of Machin
 (Rabault *et. al.*, [2019a](https://doi.org/10.1017/jfm.2019.62),[b](https://doi.org/10.1063/1.5116415)).
 In addition, Rabault has the necessary background in both Fluid Mechanics and geosciences, which places him at the intersection of the domains of competencies needed for this project.
 
-The rest of the research team is described below (organized under their home institution).
+## Institutions
 
-## The Norwegian Meteorological Institute (MET Norway)
+The rest of the research team is described below, organized under their home institution.
+
+### The Norwegian Meteorological Institute (MET Norway)
+*Oslo, Norway*
 
 MET Norway has the national responsibility for operational ocean and weather forecasting.
 The institute collects and processes real time earth observations on a massive scale, and is among the world-leading institutions in both remote sensing, weather and climate modeling, and management/processing of large datasets.
@@ -39,12 +35,14 @@ The Machine Ocean team includes:
 * **Nils Melsom Kristensen**, responsible for operational storm surge modelling at MET Norway, and has extensive knowledge and experience in high resolution coastal ocean modelling.
 * **Professor Kai Håkon Christensen** heads the Division for Ocean and Ice at MET Norway. He specializes in upper ocean dynamics and oceanic transport.
 
-## University of Oslo, Norway
+### University of Oslo
+*Oslo, Norway*
 
 * **Professor Morten Hjorth-Jensen** has a strong track record in applied quantum mechanics and computational physics.
   He is presently building the Machine Learning group at the Department of Physics.
 
-## Woods Hole Oceanographic Institution (WHOI), Massachusetts, USA
+### Woods Hole Oceanographic Institution (WHOI)
+*Massachusetts, USA*
 
 * **Dr. James Edson** has been the driving force behind the development of the COARE bulk parameterization
   ([Edson *et al.*, 2013](https://doi.org/10.1175/JPO-D-12-0173.1)), the most commonly used turbulent flux parameterization in climate modelling today.
@@ -54,10 +52,9 @@ The Machine Ocean team includes:
   Her research focuses on air–sea interaction using satellite remote sensing and modeling, with the aim to make more accurate estimates of surface turbulent fluxes (heat, water vapor, momentum) at high resolution.
   She has used machine learning to develop satellite based air–sea flux products (see [seaflux.org](https://seaflux.org)).
 
-## Uppsala University, Sweden
+### Uppsala University
+*Uppsala, Sweden*
 
 * **Professor Anna Rutgersson** is focusing on air–sea interaction and the impact of surface gravity waves on the atmosphere.
   Her group has maintained the micrometeorological site Östergarnsholm for direct measurements of vertical turbulent energy transfer over the ocean since 1995, and will provide critical data for the learning tasks.
 * **Dr. Erik Nilsson** has long experience on running LES with a moving lower boundary (representing a surface gravity wave) and also in transition zones between different surface roughnesses and temperatures.
-
-![full](/assets/images/institutions.png){: .full}

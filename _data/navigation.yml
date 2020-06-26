@@ -2,8 +2,12 @@ main:
   - title: "About"
     url: /about/
 
-institutions:
-  - title: Institutions
+page_links:
+  - title: Pages
+    children:
+    - title: About Machine Ocean
+      url: /about/
+  - title: External Links
     children:
     - title: MET Norway
       url: https://met.no/
@@ -11,5 +15,5 @@ institutions:
       url: https://uio.no/
     - title: Uppsala University
       url: https://www.uu.se/
-    - title: Woods Hole Oceanographic Institution
+    - title: WHOI
       url: https://www.whoi.edu/
