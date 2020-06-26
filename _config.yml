@@ -128,7 +128,7 @@ defaults:
       layout: single
       author_profile: false
       toc: true
-      toc_icon: info-circle
+      toc_icon: bars
       toc_label: "Contents"
       header:
         overlay_color: "#2073ac"
