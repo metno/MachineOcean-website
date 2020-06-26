@@ -33,3 +33,5 @@ lead us to hypothesize that it is possible to develop a stress model that depend
 As a testbed, we will apply MET Norway’s storm surge forecast model.
 Storm surge forecasting depends almost exclusively on transfer of atmospheric pressure and stress, so it is ideal way to test the impact of improved stress.
 At the same time, storm surges are very high on the list of dangerous climate change impacts in Norway, so improving storm surge forecasts is very important for forecasters.
+
+Read the full proposal: [PDF Document](/assets/files/MachineOceanProposal2020.pdf)
