@@ -71,6 +71,6 @@ An overview of the data sources that is intended for use with the Machine Ocean 
 | **Storage** | MET Norway hosts a data hub of the Arctic datasets locally |
 | **Type**    | Measurements |
 | **Access**  | The datasets are archived and open access |
-| **URL**     | [www.copernicus.eu](https://www.copernicus.eu/), [colhub.met.no](https://colhub.met.no/) |
+| **URL**     | [www.copernicus.eu](https://www.copernicus.eu/), [colhub.met.no](https://colhub.met.no/), [nbstds.met.no](http://nbstds.met.no/) |
 | **Format**  | NetCDF, HDF5, SAFE |
 | **Size**    | In excess of 1 petabyte |
