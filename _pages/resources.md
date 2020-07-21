@@ -17,6 +17,17 @@ The project will rely primarily on the following open source machine learning li
 
 Other libraries may be added as needed, but the project will avoid proprietary software.
 
+## Source Code
+
+All code used for Machine Ocean is tracked in various [git](https://git-scm.com/about) repositories.
+To make contributions, please fork the source code and submit pull requests via GitHub.
+
+### Machine Ocean Work Package 1 & 2 Tools
+
+| **Source**       | [github.com/metno/MachineOcean-WP12](https://github.com/metno/MachineOcean-WP12)
+| **Type**         | Python 3 module
+| **Dependencies** | tensorflow
+
 ## Data Sources
 
 An overview of the data sources that is intended for use with the Machine Ocean project.
