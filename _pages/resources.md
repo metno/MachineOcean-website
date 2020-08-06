@@ -21,7 +21,9 @@ Other libraries may be added as needed, but the project will avoid proprietary s
 
 All code used for Machine Ocean is tracked in various [git](https://git-scm.com/about) repositories.
 To make contributions, please fork the source code and submit pull requests via GitHub.
-Machine Ocean source code should be released under the Apache 2.0 license as a rule, with MIT as a secondary option if strictly necessary.
+
+Machine Ocean source code should be released under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0) as a rule,
+with the [MIT License](https://opensource.org/licenses/MIT) as a secondary option if strictly necessary.
 This matches the licensing policy at MET Norway.
 
 ### Machine Ocean Work Package 1 & 2 Tools
@@ -85,5 +87,6 @@ An overview of the data sources that is intended for use with the Machine Ocean 
 | **Type**    | Measurements |
 | **Access**  | The datasets are archived and open access |
 | **URL**     | [www.copernicus.eu](https://www.copernicus.eu/), [colhub.met.no](https://colhub.met.no/), [nbstds.met.no](http://nbstds.met.no/) |
+| **Docs**    | [scihub.copernicus.eu/userguide/WebHome](https://scihub.copernicus.eu/userguide/WebHome) |
 | **Format**  | NetCDF, HDF5, SAFE |
 | **Size**    | In excess of 1 petabyte |
